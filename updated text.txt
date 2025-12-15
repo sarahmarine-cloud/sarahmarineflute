@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Sarah Marine-Flautist, educator</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 40px;
+      padding: 40px;
+      background: linear-gradient(to right, #e6f5e6, #ccf2cc); /* Light green gradient */
+      color: #222;
+    }
+
+    h1 {
+      color: darkgreen;
+    }
+
+    h2 {
+      color: #2d5d34;
+    }
+
+    a {
+      color: #004d00;
+    }
+
+    p {
+      max-width: 800px;
+      line-height: 1.6;
+    }
+  </style>
+
+</head>
+<body>
+  <h1>Sarah Marine-orchestral flautist, chamber musician, educator</h1>
+  <img src="sarahbanner.jpeg">
+  <h2>Contact</h2>
+  <p>Email:sarahmarine@hotmail.com</p>
+  <h2>Biography</h2>
+Multi-national musician Sarah Marine is currently serving as principal flute of the Lebanese National Philharmonic Orchestra. Sarah previously spend ten years in London, where she studied her Master of Arts (Merit, 2021) at the Royal Academy of Music, having previously graduated with first class honors from Trinity Laban. Her awards include
+Third Prize in the
+Leopold Bellan International Competition (2023), the
+TCM Silver Medal for Wind
+Brass and Percussion (2020), the first prize in
+the Harold Clarke Competition (2018),
+the Berryl Maggs prize (2018), the
+runner
+-
+up prize of the TCM Soloist Competition
+(
+2019) and a Jonathan
+Myall Flute Prize (2019).
+Sarah has also performed with the Philharmonia Orchestra, the London Classical Orchestra, the Covent Garden
+Chamber Orchestra,
+the Horizon Orchestra and she plays regularly with the
+Ernest Read Symphony
+Orchestra. She is a dedicated chamber musician, and likes to rethink programmes, incorporating poetry, philosophy and song.
+Alongside performing, Sarah is a dedicated teacher. She has taught for various institutions including Junior Royal
+Academy of Music alongside her colleague and past teacher Anna Pope .
+Sarah is very grateful for support from the Countess of Munster Musical
+Trust, both
+during her studies at the Academy and in acquiring her
+beautiful gold Muramatsu
+flute. In her free time, Sarah has decided to learn how to code this website.</p>
+  <h2>Videos</h2>
+  <p><a href="https://www.youtube.com/channel/UCZPrqhS23qBe-ABjqBvCU8g">Watch on YouTube</a></p>
+   <h2>Chamber music project: The Prophet/Songs of Today and Yesterday</h2>
+  <p><strong>Performers:Sarah Marine (flute), John Sturt (voice), Charis Hanning (piano)</strong> 
+  <p>These chamber music performances, for our flute, baritone and piano ensemble, are centered around Khalil Gibran´s famous book, "The Prophet", an important and beautiful work of poetry and philosophy. In 2025, I commissioned <a href="https://www.johnsturtcomposer.co.uk/">John Sturt</a> to write a setting of this text. The result is a charming hour-long song cycle with engaging narration. </p>
+  <a href="https://www.youtube.com/watch?app=desktop&v=JzMD_MrDag8">
+  <img src="affiche.jpg" width="500" height="600">
+  </a>
+  <h2>Past and upcoming performances</h2>
+  <p><strong>Autumn 2025:</strong> 11/09/2025 The Prophet at Trinity Laban, St Alfege</p>
+  <p>03/10/2025 Lebanese National Orchestra start of the season concert</p>
+  <p>10/10/2025 Lebanese National Orchestra Tchaikovsky 6</p>
+  <p>31/10/2025 Lebanese National Orchestra Brahms 1</p>
+  <p>07/11/2025 Lebanese National Orchestra Tchaikovsky 5</p>
+  <p>15/11/2025 Lebanese National Orchestra old and new favorites</p>
+  <p>12/12/2025 Lebanese National Orchestra Khachaturian </p>
+  <p>16/12/2025 Lebanese National Orchestra Christmas Concert</p>
+  <p><strong>Spring 2025:</strong>14/05/2025 The Prophet at St Georges Hanover Square</p>
+  <p>13/06/2025 The Prophet at St Anne, Kew </p>
+  <img src="orchestra.jpeg">
+</p>
+
+</body>
+</html>
